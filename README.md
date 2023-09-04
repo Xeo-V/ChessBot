@@ -7,6 +7,7 @@
 - [Getting Started](#getting-started-🚀)
   - [Installation](#installation-💽)
   - [Usage](#usage-💻)
+- [Trained Model](#trained-model-📦)
 - [Future Plans](#future-plans-🔮)
 - [Progress](#progress-📈)
 - [Disclaimer](#disclaimer-⚠️)
@@ -15,7 +16,7 @@
 
 ## Introduction 👋
 
-Welcome to Chess Bot, a fascinating project that uses the power of artificial intelligence 🧠 to suggest the best possible moves in a game of chess ♟️. The bot not only provides move suggestions but also visualizes them by highlighting the current tile in red 🟥 and the target tile in green 🟩.
+Chess Bot leverages cutting-edge AI to offer real-time, insightful move suggestions, elevating your chess game while providing an interactive, visually-engaging experience.
 
 ## Features ✨
 - 🎯 Real-time chess move suggestions
@@ -39,19 +40,23 @@ Welcome to Chess Bot, a fascinating project that uses the power of artificial in
 
 ### Usage 💻
 To use the Chess Bot, run the following command:
+```bash
 python bot.py
-
+```
 👉 Follow the on-screen instructions to get the best move suggestions.
-Future Plans 🔮
 
-    🎮 Add multiplayer support
-    🃏 Include various chess variants
-    📈 Improve AI model for better accuracy
+## Trained Model 📦
+The trained model is too large for GitHub's upload limit. You can download it from this [Google Drive folder](https://drive.google.com/drive/folders/1PUdacR_DIIjpNLS-6he2IV4cFnPqOlOk?usp=drive_link).
+
+## Future Plans 🔮
+- 🎮 Add multiplayer support
+- 🃏 Include various chess variants
+- 📈 Improve AI model for better accuracy
 
 ## Progress 📈
+![Progress](https://progress-bar.dev/70)
 
-70% ▰▰▰▰▰▰▰▱▱▱ 100%
 ---
 
 ## Disclaimer ⚠️
-🔴 Before downloading or using this software, make sure to read the Disclaimer.
+🔴 **Before downloading or using this software, make sure to read the [Disclaimer](./Disclaimer.md).**
