@@ -41,4 +41,15 @@ Welcome to Chess Bot, a fascinating project that uses the power of artificial in
 To use the Chess Bot, run the following command:
 ```bash
 python bot.py
-# ChessBot
+
+👉 Follow the on-screen instructions to get the best move suggestions.
+Future Plans 🔮
+
+    🎮 Add multiplayer support
+    🃏 Include various chess variants
+    📈 Improve AI model for better accuracy
+
+Progress 📈
+
+Progress
+
